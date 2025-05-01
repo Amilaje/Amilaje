@@ -51,13 +51,6 @@
 
 ---
 
-### 📚 Latest Blog Posts
-
-- 🧠 딥러닝: [[모델 평가 지표](https://velog.io/@choijinho1/%EB%AA%A8%EB%8D%B8-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C)  ](https://velog.io/@choijinho1/Perceptrons%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0)
-- 🧮 알고리즘:[[최대공약수(GCD) 찾기 - 재귀 - Java 구현](https://velog.io/@choijinho1/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98GCD-%EC%B0%BE%EA%B8%B0-%EC%9E%AC%EA%B7%80-Java-%EA%B5%AC%ED%98%84-x002owi1)](https://velog.io/@choijinho1/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS-Java-%EA%B5%AC%ED%98%84)
-
----
-
 ### 📬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:choijinho321@gmail.com)  
