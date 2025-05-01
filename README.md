@@ -13,29 +13,29 @@
 ### 🛠 Tech Stack
 
 #### 📌 Languages  
-![Java](https://img.shields.io/badge/Java-FF5722?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-FF5722?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 #### 📌 Frameworks & Libraries  
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=data&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-2B3137?style=flat&logo=chainlink&logoColor=white)  
-![YOLO](https://img.shields.io/badge/YOLO-violet?style=flat&logo=opencv&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=data&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-2B3137?style=for-the-badge&logo=chainlink&logoColor=white)  
+![YOLO](https://img.shields.io/badge/YOLO-violet?style=for-the-badge&logo=opencv&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
 #### 📌 Tools  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🧠 Certifications
 
-![AICE Basic](https://img.shields.io/badge/AICE_Basic-blue?style=flat)  
-![AICE Associate](https://img.shields.io/badge/AICE_Associate-blue?style=flat)  
-![컴퓨터 활용능력 2급](https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%20%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%202%EA%B8%89-0d948f?style=flat)  
-![딥러닝 활용능력 3급](https://img.shields.io/badge/%EB%94%A5%EB%9F%AC%EB%8B%9D%203%EA%B8%89-ef5b5b?style=flat)  
-![IT Plus Level 2](https://img.shields.io/badge/IT_Plus_Level_2-5954d6?style=flat)  
-![워드프로세서](https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-1f1f1f?style=flat)  
+![AICE Basic](https://img.shields.io/badge/AICE_Basic-blue?style=for-the-badge)  
+![AICE Associate](https://img.shields.io/badge/AICE_Associate-blue?style=for-the-badge)  
+![컴퓨터 활용능력 2급](https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%20%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%202%EA%B8%89-0d948f?style=for-the-badge)  
+![딥러닝 활용능력 3급](https://img.shields.io/badge/%EB%94%A5%EB%9F%AC%EB%8B%9D%203%EA%B8%89-ef5b5b?style=for-the-badge)  
+![IT Plus Level 2](https://img.shields.io/badge/IT_Plus_Level_2-5954d6?style=for-the-badge)  
+![워드프로세서](https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-1f1f1f?style=for-the-badge)  
 🧪 *AICE Professional* 준비 중
 
 ---
