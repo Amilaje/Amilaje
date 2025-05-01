@@ -1,6 +1,6 @@
 ## Hi there I`m JinHo 👋
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=choijinho1)]([https://velog.io/@eungyeole](https://velog.io/@choijinho1/posts))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=AI_Amilaje)]([(https://velog.io/@choijinho1/posts)])
 <!--
 **Amilaje/Amilaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
