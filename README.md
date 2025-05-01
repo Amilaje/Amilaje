@@ -13,7 +13,7 @@
 ### 🛠 Tech Stack
 
 #### 📌 Languages  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-FF5722?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 #### 📌 Frameworks & Libraries  
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=data&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-2B3137?style=flat&logo=chainlink&logoColor=white)  
