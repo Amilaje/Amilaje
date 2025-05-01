@@ -48,9 +48,7 @@
 
 ### 📬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:choijinho321@gmail.com)  
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@choijinho1/posts)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choijinho321@gmail.com)  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choijinho1/posts)
 ---
 
 > 👀 꾸준한 학습과 협업을 통해 성장하고 있습니다. 좋은 인연으로 함께할 수 있길 바랍니다!
