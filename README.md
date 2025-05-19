@@ -40,9 +40,30 @@
 
 ### 💡 Projects
 
--  이미지 모델을 파인 튜닝하여 다양한 카테고리 자동 분류 시스템 개발  
--  LLM 모델을 파인 튜닝하여 도메인 특화 챗봇 구축  
--  Unity를 활용한 인터랙티브 게임 제작  
+#### ☁️ AWS 기반 클라우드 인프라 구축
+- VPC, Subnet, Routing Table을 활용한 3-Tier 구조 설계
+- EC2, NAT Gateway, Bastion Host 구성으로 보안성과 접근 제어 구현
+- ALB(Application Load Balancer)를 통한 Web 서버 로드 밸런싱 구성
+- Public/Private Subnet 구분 및 NAT를 통한 외부 통신 경로 설정
+
+#### 🤖 LLM Agent 기반 AI 면접관 시스템
+- LangGraph 기반 LLM Agent 구성으로 사용자 이력 기반 질문 생성
+- 자연어 요약, 키워드 추출, 평가까지 수행하는 다중 스텝 에이전트 구축
+- 인터뷰 시나리오 흐름 제어 및 대화형 질의응답 파이프라인 설계
+
+#### 🔍 이미지 분류 (MobileNetV2 기반)
+- MobileNetV2 모델을 활용한 이미지 분류 Fine-tuning 다수 수행
+- 다양한 카테고리(과일, 식품, 사물 등) 분류 프로젝트 경험 보유
+- 데이터 전처리, 증강(Augmentation) 및 추론 시스템 구현 포함
+
+#### 📱 머신러닝 기반 모션 분류 시스템
+- 스마트폰 센서 데이터(가속도/자이로)를 활용한 모션 분류 모델 개발
+- SVM, Random Forest 등 다양한 머신러닝 알고리즘 비교 실험
+- 실시간 동작 인식 정확도 향상을 위한 피처 엔지니어링 적용
+
+#### 🎮 Unity 기반 게임 개발
+- Unity 엔진을 활용하여 간단한 2D 게임 구현
+- 사용자 입력 처리 및 애니메이션, UI/UX 요소 구성 경험
 
 ---
 
