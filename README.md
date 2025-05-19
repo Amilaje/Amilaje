@@ -5,19 +5,21 @@
 ### 👨‍🚀 About Me
 
 천문학을 전공하고 천문대에서 7년간 근무한 뒤, **인공지능 개발자**로 커리어 전환 중입니다.  
-완전히 새로운 분야에서 출발했지만, 꾸준한 학습과 실전 프로젝트를 통해 **AI 시스템을 설계하고 구현하는 역량**을 키워가고 있습니다.
+비전공자의 길을 걷고 있지만, 꾸준한 학습과 실전 프로젝트를 통해  
+**AI 시스템을 설계하고 구현하는 실무 역량**을 차곡차곡 쌓아가고 있습니다.
 
-현재 **KT 에이블스쿨 7기**에서 심화 교육 과정을 수강하며,  
-딥러닝, 머신러닝, LLM 기반 응용 시스템, 클라우드 인프라 등 실무 중심 기술을 적극적으로 경험하고 있습니다.
+현재 **KT 에이블스쿨 7기**에서 심화 교육 과정을 수강 중이며,  
+**딥러닝, 머신러닝, LLM 기반 응용 시스템, 클라우드 인프라** 등 다양한 기술을 실습하며 실전 경험을 넓히고 있습니다.
 
-🎯 **성장 목표**: 데이터를 이해하고, 문제를 정의하고, AI 기술로 해결책을 설계할 수 있는 **실전형 AI 개발자**가 되는 것입니다.
+🎯 **성장 목표**: 데이터를 이해하고 문제를 정의하며,  
+AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전형 AI 개발자**로 성장하는 것입니다.
 
 ---
 
 ### 🛠 Tech Stack
 
 #### 📌 Languages  
-![Java](https://img.shields.io/badge/Java-FF5722?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-FF5722?style=for-the-badge&logo=java&logoColor=white)  
 
 #### 📌 Frameworks & Libraries  
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=data&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-2B3137?style=for-the-badge&logo=chainlink&logoColor=white)  
@@ -72,8 +74,10 @@
 
 ### 📬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choijinho321@gmail.com)  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choijinho1/posts)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choijinho321@gmail.com)  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choijinho1/posts)  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1e6c91955b3d80bfaa8cce9a1bcd1952)
 
 ---
 
-> 꾸준한 학습과 실전 경험을 통해, 문제 해결 중심의 **AI 개발자**로 성장하고 있습니다. 🚀
+>끊임없는 학습과 실전 경험을 통해,
+>실전에서 통하는 문제 해결형 AI 개발자로 성장하며
+>협업과 실행력을 갖춘 기술인을 지향하고 있습니다. 🚀
