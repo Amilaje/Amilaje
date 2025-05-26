@@ -1,4 +1,4 @@
-## Hi. I`m JinHo 👋
+## JinHo | AI & 데이터 분석가 지망생
 
 ---
 
