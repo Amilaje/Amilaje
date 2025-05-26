@@ -19,7 +19,7 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 ## 🛠 Tech Stack
 
 ###  Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-FF5722?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-FF5722?style=for-the-badge&logo=java&logoColor=white)
 
 ###  Frameworks & Libraries  
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=data&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-2B3137?style=for-the-badge&logo=chainlink&logoColor=white)  
