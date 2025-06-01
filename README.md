@@ -61,7 +61,7 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 - ALB(Application Load Balancer)를 통한 Web 서버 로드 밸런싱 구성
 - Public/Private Subnet 구분 및 NAT를 통한 외부 통신 경로 설정
 
-###  LLM Agent 기반 AI 면접관 시스템
+###  LLM Agent 기반 AI 면접관 Agent 시스템
 - LangGraph 기반 LLM Agent 구성으로 사용자 이력 기반 질문 생성
 - 자연어 요약, 키워드 추출, 평가까지 수행하는 다중 스텝 에이전트 구축
 - 인터뷰 시나리오 흐름 제어 및 대화형 질의응답 파이프라인 설계
