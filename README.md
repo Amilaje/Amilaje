@@ -29,6 +29,8 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+
 ###  Tools  
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
@@ -46,6 +48,12 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 ---
 
 ## 💡 Projects
+
+###  Spring Boot + React 기반 도서관리 웹 시스템
+- Spring Boot와 React를 활용한 풀스택 웹 애플리케이션 개발
+- 도서 등록/조회/수정/삭제 기능 구현 및 REST API 통신 설계
+- AWS EC2에 배포 및 Postman을 활용한 백엔드 API 테스트 수행
+- Entity-DTO-Service-Controller 계층 구조 설계와 JPA 기반 DB 연동
 
 ###  AWS 기반 클라우드 인프라 구축
 - VPC, Subnet, Routing Table을 활용한 3-Tier 구조 설계
