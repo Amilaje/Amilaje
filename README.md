@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hello&fontSize=50&fontAlign=70&fontAlignY=35&desc=AI%20Data%20Analisys%20students.&descSize=20&descAlign=70&descAlignY=60&rotate=12)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=I'm%20JinHo&fontSize=50&fontAlign=70&fontAlignY=35&desc=AI%20Data%20Analisys%20students.&descSize=20&descAlign=70&descAlignY=60&rotate=12)
+
 
 
 
