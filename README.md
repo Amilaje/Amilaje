@@ -7,6 +7,7 @@
 
 
 
+
 <div align="right">
   AI & 데이터 분석가 지망생
 </div>
