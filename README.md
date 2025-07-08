@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=240&text=Hello!%0AI'm%20JinHo&fontSize=35&fontAlign=70&fontAlignY=50&rotate=12)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hello!I%27m%20JinHo&fontSize=50&desc=AI및데이터분가준비생&descSize=25&descAlign=right&descAlignY=70&rotate=12&fontAlign=60&fontAlignY=35)
+
 
 
 
