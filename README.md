@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hello!%0AI'm%20JinHo&fontSize=40&fontAlign=60&fontAlignY=35&rotate=12)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hello!&fontSize=50&desc=I%27m%20JinHo&descSize=25&descAlign=right&descAlignY=80&rotate=12&fontAlign=60&fontAlignY=35)
+
 
 
 
