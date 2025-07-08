@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hello!&fontSize=50&desc=I%27m%20JinHo&descSize=25&descAlign=right&descAlignY=80&rotate=12&fontAlign=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=SLICE&fontSize=50&fontAlign=70&fontAlignY=35&desc=desc%20function%20is%20also%20rotated.&descSize=20&descAlign=70&descAlignY=60&rotate=12)
+
 
 
 
