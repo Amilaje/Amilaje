@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&fontSize=90&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&fontSize=90&rotate=30)
 
 <div align="right">
   AI & 데이터 분석가 지망생
