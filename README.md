@@ -106,5 +106,5 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 >실전에서 통하는 문제 해결형 AI 개발자로 성장하며
 >협업과 실행력을 갖춘 기술인을 지향하고 있습니다. 🚀
 <p align="center">
-<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/ddd1eafc-aa0e-4000-b677-1f6b66ddd306" />
+![Image](https://github.com/user-attachments/assets/a115e0f4-3a67-4005-88c5-2afe715e1ae4)
 </p>
