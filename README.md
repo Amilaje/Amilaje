@@ -34,7 +34,10 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 ###  Tools  
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![MSA](https://img.shields.io/badge/MSA_Architecture-5a5a5a?style=for-the-badge&logo=architect&logoColor=white)  ![MSA EZ](https://img.shields.io/badge/MSA_EZ_Modeling-999999?style=for-the-badge&logo=notion&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
 
 ---
 
@@ -48,6 +51,14 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 ---
 
 ## 💡 Projects
+
+### MSA 기반 도서 구독 플랫폼 구축 프로젝트
+- MSA(EZ 모델링)를 기반으로 도서, 회원, 리뷰, 대출, 권한 등 도메인을 설계 및 서비스 분리
+- Kafka 기반 Pub/Sub 구조를 활용한 이벤트 흐름 구성 및 비동기 메시지 처리
+- 각 마이크로서비스에 독립 DB 적용 및 Hexagonal Architecture 기반 계층 설계
+- OpenAI API를 활용한 도서 요약/표지 생성/구독료 예측 기능 내장
+- Docker로 각 서비스 컨테이너화하고 Azure ACR + AKS 클러스터에 배포 완료
+- GitHub Actions를 통한 CI, Kubernetes를 통한 스케일링 및 서비스 노출
 
 ###  Spring Boot + React 기반 도서관리 웹 시스템
 - Spring Boot와 React를 활용한 풀스택 웹 애플리케이션 개발
