@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=I'm%20JinHo&fontSize=50&fontAlign=70&fontAlignY=35&desc=AI%20Data%20Science%20SLearner&descSize=20&descAlign=70&descAlignY=60&rotate=12)
-
-
-<div align="right">
-  AI & 데이터 분석가 지망생
-</div>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=I'm%20JinHo&fontSize=50&fontAlign=70&fontAlignY=35&desc=AI%20Data%20Science%20Learner&descSize=20&descAlign=70&descAlignY=60&rotate=12)
 
 ---
 
