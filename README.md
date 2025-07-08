@@ -1,8 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule.render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=Hello!&fontSize=50&desc=I%27m%20JinHo&descAlign=right&descSize=20&descAlignY=70" />
+</p>
 
-<img src="https://capsule.render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=Hello!&fontSize=50&desc=I%27m%20JinHo&descAlign=right&descSize=20&descAlignY=70" />
-
-</div>
 
 <div align="right">
   AI & 데이터 분석가 지망생
