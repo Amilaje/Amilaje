@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Amilaje&fontSize=90)
 
-# JinHo | AI & 데이터 분석가 지망생
+<div align="right">
+  ### AI & 데이터 분석가 지망생
+</div>
 
 ---
 
