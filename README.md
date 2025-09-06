@@ -55,6 +55,51 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 
 ## 💡 Projects
 
+### KT Aivle School 빅프로젝트 – 약국 자동화 플랫폼 (YeahYak)
+- 프로젝트 개요: 약국 프랜차이즈 본사와 가맹점 간 업무 효율화를 목표로 한 AI·클라우드 기반 통합 플랫폼 개발
+- GPT 기반 신약 요약, 법률 변경 자동 공지, 유행병 리포트 요약
+- LangGraph 기반 LLM Agent 구성으로 FAQ 데이터 기반 자동 응답 챗봇 시스템
+- 식약처 Open API를 이용한![YOLO](https://img.shields.io/badge/YOLO-violet?style=for-the-badge&logo=opencv&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+
+###  Tools  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![MSA](https://img.shields.io/badge/MSA_Architecture-5a5a5a?style=for-the-badge&logo=architect&logoColor=white)  ![MSA EZ](https://img.shields.io/badge/MSA_EZ_Modeling-999999?style=for-the-badge&logo=notion&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+
+---
+
+## 🧠 Certifications
+
+![AICE Basic](https://img.shields.io/badge/AICE_Basic-blue?style=for-the-badge)  ![AICE Associate](https://img.shields.io/badge/AICE_Associate-blue?style=for-the-badge)  
+![컴퓨터 활용능력 2급](https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%20%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%202%EA%B8%89-0d948f?style=for-the-badge)  ![딥러닝 활용능력 3급](https://img.shields.io/badge/%EB%94%A5%EB%9F%AC%EB%8B%9D%203%EA%B8%89-ef5b5b?style=for-the-badge)  
+![IT Plus Level 2](https://img.shields.io/badge/IT_Plus_Level_2-5954d6?style=for-the-badge)  ![워드프로세서](https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-1f1f1f?style=for-the-badge)  
+~*AICE Professional*~ 준비 중
+
+~*빅 데이터 분석기사*~ 준비 중
+
+---
+
+## 💡 Projects
+
+### KT Aivle School 빅프로젝트 – 약국 자동화 플랫폼 (YeahYak)
+- 프로젝트 개요: 약국 프랜차이즈 본사와 가맹점 간 업무 효율화를 목표로 한 AI·클라우드 기반 통합 플랫폼 개발
+- GPT 기반 신약 요약, 법률 변경 자동 공지, 유행병 리포트 요약
+- LangGraph 기반 FAQ 챗봇 에이전트 설계 및 구축
+- 식약처 Open API를 활용한 약품 데이터 기반 자동 응답 시스템
+- POS 데이터를 활용한 발주 예측 모델 (LightGBM 시계열 예측)
+- Spring Boot + React + Flask 기반 웹 시스템 연동
+- Docker & Azure AKS 기반 컨테이너 오케스트레이션
+
+→ **내 역할**:팀장, 아이디어 구조화, 백엔드 구축, AI 모델 구현 및 Gateway 통합, 발표 및 문서화 총괄
+
 ### MSA 기반 도서 구독 플랫폼 구축 프로젝트
 - MSA(EZ 모델링)를 기반으로 도서, 회원, 리뷰, 대출, 권한 등 도메인을 설계 및 서비스 분리
 - Kafka 기반 Pub/Sub 구조를 활용한 이벤트 흐름 구성 및 비동기 메시지 처리
