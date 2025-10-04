@@ -44,12 +44,7 @@ AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전�
 
 ## 🧠 Certifications
 
-![AICE Basic](https://img.shields.io/badge/AICE_Basic-blue?style=for-the-badge)  ![AICE Associate](https://img.shields.io/badge/AICE_Associate-blue?style=for-the-badge)  
-![컴퓨터 활용능력 2급](https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%20%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%202%EA%B8%89-0d948f?style=for-the-badge)  ![딥러닝 활용능력 3급](https://img.shields.io/badge/%EB%94%A5%EB%9F%AC%EB%8B%9D%203%EA%B8%89-ef5b5b?style=for-the-badge)  
-![IT Plus Level 2](https://img.shields.io/badge/IT_Plus_Level_2-5954d6?style=for-the-badge)  ![워드프로세서](https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-1f1f1f?style=for-the-badge)  
-~*AICE Professional*~ 준비 중
-
-~*빅 데이터 분석기사*~ 준비 중
+![AICE Basic](https://img.shields.io/badge/AICE_Basic-blue?style=for-the-badge)  ![AIC중
 
 ---
 
