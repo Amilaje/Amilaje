@@ -79,7 +79,11 @@
 ## 📬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choijinho321@gmail.com) [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choijinho1/posts) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1e6c91955b3d80bfaa8cce9a1bcd1952) [![Webpage](https://img.shields.io/badge/Personal_Web-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio-website-frontend-s3.s3-website.us-east-2.amazonaws.com/)
-자로 성장하며
+
+---
+
+>끊임없는 학습과 실전 경험을 통해,
+>실전에서 통하는 문제 해결형 AI 개발자로 성장하며
 >협업과 실행력을 갖춘 기술인을 지향하고 있습니다. 🚀
 
 <p align="center">
