@@ -2,13 +2,12 @@
 
 ## 👨‍🚀 About Me
 
-천문학을 전공하고 천문대에서 7년간 근무한 뒤, **인공지능 개발자**로 커리어 전환을 마쳤습니다.  
+천문학을 전공하고 천문대에서 7년간 근무한 뒤, **인공지능 개발자**로 커리어 전환을 진행하고 있습니다.  
 비전공자의 길을 걷고 있지만, **KT 에이블스쿨 7기**를 수료하고 **기업 협업 일경험**을 거치며  
 꾸준한 학습과 실무 프로젝트를 통해 **AI 시스템을 설계하고 구현하는 실무 역량**을 쌓아왔습니다.
 
 단순한 모델링을 넘어 **MSA, Cloud(AWS/Azure), LLM Agent** 등 복합적인 기술 스택을 활용하여  
 문제를 정의하고 실질적인 해결책을 제시하고자 합니다.  
-이러한 역량을 집약한 [**개인 포트폴리오 웹페이지**](http://portfolio-website-frontend-s3.s3-website.us-east-2.amazonaws.com/)를 직접 구축하여 운영 중입니다.
 
 🎯 **성장 목표**: 데이터를 이해하고 문제를 정의하며, AI 기술을 활용해 효과적인 해결책을 설계할 수 있는 **실전형 AI 개발자**로 성장하는 것입니다.
 
@@ -37,11 +36,11 @@
 ## 💼 Work Experience (실무 경험)
 
 ### 기업 협업 일경험: LLM 기반 지능형 법률/행정 가이드 서비스 구축
-- **기간**: 2025 (KT 에이블스쿨 일경험)
+- **기간**: 2025.10 ~ 2025.12 (KT 에이블스쿨 일경험)
 - **주요 내용**: 실무 환경에서의 대규모 언어 모델(LLM) 응용 서비스 설계 및 최적화
 - **핵심 성과**: **RAG 파이프라인** 구축을 통한 답변 정확도 개선 및 환각 현상 방지, 비정형 데이터 자동 구조화
-- **기술 스택**: LLM, Vector DB, LangChain, Fast API, React
-- **역할**: AI 엔지니어링 및 RAG 파이프라인 설계, FE-BE-AI 서버 연동 및 API 구조 설계 총괄
+- **기술 스택**: LLM, Vector DB, LangChain, Fast API, React, Spring Boot
+- **역할**: 팀장, AI 엔지니어링 및 RAG 파이프라인 설계, FE-BE-AI 서버 연동 및 API 구조 설계 총괄
 
 ---
 
@@ -54,7 +53,7 @@
 
 ### 2. MSA 기반 AI 도서 구독 플랫폼
 - **내용**: 10여 개의 마이크로서비스로 구성된 이벤트 중심 도서 구독 서비스
-- **AI 기능**: **OpenAI DALL-E 기반 AI 표지 생성 서비스 추가 구현**, 도서 요약 및 구독료 예측
+- **AI 기능**: OpenAI DALL-E 기반 AI 표지 생성 서비스 구현, 도서 요약 및 제목 생성성
 - **기술**: Kafka Pub/Sub 비동기 처리, Hexagonal Architecture, GitHub Actions CI/CD
 - **역할**: 팀장, MSA 아키텍처 설계 및 AI 기능 전체 구현
 
@@ -80,11 +79,7 @@
 ## 📬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choijinho321@gmail.com) [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choijinho1/posts) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1e6c91955b3d80bfaa8cce9a1bcd1952) [![Webpage](https://img.shields.io/badge/Personal_Web-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio-website-frontend-s3.s3-website.us-east-2.amazonaws.com/)
-
----
-
->끊임없는 학습과 실전 경험을 통해,
->실전에서 통하는 문제 해결형 AI 개발자로 성장하며
+자로 성장하며
 >협업과 실행력을 갖춘 기술인을 지향하고 있습니다. 🚀
 
 <p align="center">
