@@ -27,7 +27,7 @@
 
 ## 🧠 Certifications
 
-![Big Data Analyst](https://img.shields.io/badge/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC-%2300599C?style=for-the-badge&logo=databricks&logoColor=white) ![AICE Associate](https://img.shields.io/badge/AICE_Associate-blue?style=for-the-badge) ![딥러닝 활용능력 3급](https://img.shields.io/badge/%EB%94%A5%EB%9F%AC%EB%8B%9D%203%EA%B8%89-ef5b5b?style=for-the-badge)
+![Big Data Analyst](https://img.shields.io/badge/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC-%2300599C?style=for-the-badge&logo=databricks&logoColor=white) ![AICE Basic](https://img.shields.io/badge/AICE_Associate-blue?style=for-the-badge) ![AICE Associate](https://img.shields.io/badge/AICE_Associate-blue?style=for-the-badge) ![딥러닝 활용능력 3급](https://img.shields.io/badge/%EB%94%A5%EB%9F%AC%EB%8B%9D%203%EA%B8%89-ef5b5b?style=for-the-badge)
 
 ---
 
